@@ -1,0 +1,272 @@
+{"slides":
+[
+{
+	"slideName":
+		"chinM",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+		    "chinM.1.jpg",
+            "chinM.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the Chin", 
+			"After Image of the Chin"
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0, 288, 216'><ellipse cx='120' cy='170'  rx='40' ry='10' transform='rotate( 25, 120, 170)' /><ellipse cx='180' cy='170'  rx='40' ry='10' transform='rotate(-25, 180, 170)' /></svg>"
+	    ],
+
+	"title":    
+		"Treatment of the Double-Chin (Submentum)",
+	"caption":
+	    [
+        "Before Treatment", "After photo taken 3 months later"
+	    ],	
+	"text":
+		"Treatment of the double chin is popular with men."
+},	
+{
+	"slideName":
+		"chinF",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"chinF.1.jpg",
+            "chinF.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the Chin", 
+			"After Image of the Chin"
+		],
+	"svgCode": 
+	    [
+	    "<svg width='100%' height='100%' viewBox='0, 0, 288, 247'><ellipse cx='85' cy='100'  rx='30' ry='15' transform='rotate(-25, 85, 100)' /></svg>"
+		],
+	
+	"title":    
+		"Treatment of the Double-Chin (Submentum)",
+		"caption":
+	    [
+        "Before Treatment", "After photo taken 3 months later"
+	    ],	
+	"text":
+		"Treatment of the double chin improves skin laxity*"
+},
+{
+	"slideName":
+		"armF2",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"armF2.1.jpg",
+            "armF2.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the arm (tricep)", 
+			"After Image of the arm (tricep)"
+		],
+	"svgCode": 
+	    [
+	    "<svg width='100%' height='100%' viewBox='0, 0,  288, 216'><ellipse cx='190' cy='160'  rx='50' ry='20' transform='rotate(0, 190, 160)' /></svg>"
+		],
+	
+	"title":    
+		"Treatment of the Arms (triceps)",
+		"caption":
+	    [
+        "Before Treatment", "After photo taken 2 months later"
+	    ],	
+	"text":
+		""
+},
+{
+	"slideName":
+		"armF3",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"armF3.1.jpg",
+            "armF3.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the arm (tricep)", 
+			"After Image of the arm (tricep)"
+		],
+	"svgCode": 
+	    [
+	    "<svg width='100%' height='100%' viewBox='0, 0,  288, 216'><ellipse cx='100' cy='140'  rx='60' ry='20' transform='rotate(3, 100, 140)' /><ellipse cx='175' cy='130'  rx='60' ry='20' transform='rotate(-15, 175, 130)' /></svg>"
+		],
+	
+	"title":    
+		"Treatment of the Arms (triceps)",
+		"caption":
+	    [
+        "Before Treatment", "After photo taken 2 months later"
+	    ],	
+	"text":
+		""
+},
+{
+	"slideName":
+		"armF1",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"armF.1.jpg",
+            "armF.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the arm (tricep)", 
+			"After Image of the arm (tricep)"
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0,  288, 216'><ellipse cx='205' cy='150'  rx='60' ry='20' transform='rotate(-6, 205, 150)' /></svg>"
+		],
+	
+	"title":    
+		"Treatment of the Arms (triceps)",
+		"caption":
+	    [
+        "Before Treatment", "After photo taken 11 months later"
+	    ],	
+	"text":
+		""
+},
+{
+	"slideName":
+		"abF1",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"abF1.1.jpg",
+            "abF1.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the abdomen", 
+			"After Image of the abdomen"
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0,  288, 216'><ellipse cx='200' cy='120'  rx='15' ry='50' transform='rotate(-5, 200, 120)' /></svg>"
+		],
+	
+	"title":    
+		"Treatment of the abdomen",
+		"caption":
+	    [
+        "Before Treatment", "10 weeks later"
+	    ],	
+	"text":
+		""
+},
+{
+	"slideName":
+		"abF2",
+	"numOfImages":
+		2,
+	"imgSRC":
+		[
+			"abF2.1.jpg",
+            "abF2.2.jpg"
+		],
+	"altMsg": 
+		[
+			"Before Image of the abdomen", 
+			"After Image of the abdomen"
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0,  288, 216'>><ellipse cx='100' cy='150'  rx='15' ry='30' transform='rotate(20, 100, 150) '/><ellipse cx='70' cy='145'  rx='10' ry='25' transform='rotate(-8, 70, 145) '/><ellipse cx='77' cy='95'  rx='10' ry='25' transform='rotate(20, 77, 95) '/><ellipse cx='103' cy='95'  rx='10' ry='25' transform='rotate(-8, 103, 95) '/></svg>"
+		],
+	
+	"title":    
+		"Treatment of the abdomen",
+		"caption":
+	    [
+        "Before Treatment", "10 weeks later"
+	    ],	
+	"text":
+		""
+},
+{
+	"slideName":
+		"abF3",
+	"numOfImages":
+		3,
+	"imgSRC":
+		[
+			"abF3.1.jpg",
+			"abF3.2.jpg",
+			"abF3.3.jpg"
+		],
+	"altMsg": 
+		[
+			"Before treatment of the abdomen.", 
+			"Intermediate treatment of the abdomen",
+            "Treatment result of the abdomen."
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0, 288, 216'><ellipse cx='85' cy='150'  rx='50' ry='30' transform='rotate(-30, 85, 150) '/></svg>",
+		"<svg width='100%' height='100%' viewBox='0, 0, 288, 216'><ellipse cx='70' cy='118'  rx='20' ry='60' transform='rotate(0, 80, 118) '/></svg>"	
+		],
+	
+	"title":    
+		"Treatment of the abdomen",
+		"caption":
+	    [
+        "Before Treatment", "2nd treatment", "Final Result."
+	    ],	
+	"text":
+		"CoolSculpting treatment post pregnancy*"
+}
+,
+{
+	"slideName":
+		"abF5",
+	"numOfImages":
+		3,
+	"imgSRC":
+		[
+			"abF5.1.jpg",
+			"abF5.2.jpg",
+			"abF5.3.jpg"
+		],
+	"altMsg": 
+		[
+			"Before treatment of the abdomen.",
+			"Intermediate treatment of the abdomen",
+            "After treatment of the abdomen."
+		],
+	"svgCode": 
+	    [
+		"<svg width='100%' height='100%' viewBox='0, 0, 288, 216'><ellipse cx='120' cy='160'  rx='50' ry='25' transform='rotate(-40, 120, 160) '/><ellipse cx='62' cy='165'  rx='15' ry='35' transform='rotate(-8, 62, 165) '/></svg>",
+		"<svg width='100%' height='100%' viewBox='0, 0, 288, 216'><ellipse cx='90' cy='168'  rx='50' ry='25' transform='rotate(5, 90, 168) '/></svg>"	
+		],
+	
+	"title":    
+		"Treatment of the abdomen",
+		"caption":
+	    [
+        "Before Treatment", "2nd treatment", "Final Result."
+	    ],	
+	"text":
+		"CoolSculpting treatment*"
+}
+]
+}
